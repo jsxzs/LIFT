@@ -27,9 +27,10 @@
 </p>
 
 <p align="center">
-  <a href="assets/teaser_video.mp4"><img src="assets/teaser_video_poster.jpg" width="720" alt="LIFT teaser video (click to play)"></a>
+
+https://github.com/user-attachments/assets/d14cd44a-8257-4c1d-a1e5-0ed5194ce86f
+
 </p>
-<p align="center"><em>Click the image to play the teaser video: input image + camera → fly the camera → last-frame layout → generate.</em></p>
 
 <p align="center">
   <img src="assets/teaser.png" width="720" alt="LIFT teaser">
@@ -154,9 +155,8 @@ bash scripts/train_opsd.sh
 The `UI/` directory provides an interactive interface for running and visualizing LIFT.
 
 <p align="center">
-  <a href="assets/ui_demo.mp4"><img src="assets/ui_demo_poster.jpg" width="900" alt="LIFT UI demo (click to play the video)"></a>
+  https://github.com/user-attachments/assets/1a3c98e6-e56a-4d7c-acc4-f30df438abff
 </p>
-<p align="center"><em>Click the image to play the demo video: point-cloud view, first-person trajectory capture, keyframe tiles, last-frame layout editing and one-click generation.</em></p>
 
 ### Installation
 

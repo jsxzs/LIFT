@@ -1,0 +1,10 @@
+# Extra packages for the LIFT layout editor (UI/), on top of the repo's requirements.txt.
+viser>=1.0
+scipy
+opencv-python-headless
+imageio
+imageio-ffmpeg
+pillow
+numpy
+# Optional, only for MODE=user (upload an image -> MoGe-2 point cloud):
+# pip install git+https://github.com/microsoft/MoGe.git

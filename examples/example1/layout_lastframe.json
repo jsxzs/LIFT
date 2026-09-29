@@ -1,0 +1,59 @@
+{
+  "instances": [
+    {
+      "id": 0,
+      "category": "chair",
+      "bbox": [
+        0,
+        515,
+        332,
+        719
+      ],
+      "caption": "white upholstered chair with an orange throw pillow"
+    },
+    {
+      "id": 1,
+      "category": "chair",
+      "bbox": [
+        586,
+        416,
+        710,
+        545
+      ],
+      "caption": "white upholstered chair with an orange throw pillow"
+    },
+    {
+      "id": 2,
+      "category": "chandelier",
+      "bbox": [
+        449,
+        0,
+        648,
+        209
+      ],
+      "caption": "ornate glass and metal chandelier hanging from the ceiling"
+    },
+    {
+      "id": 3,
+      "category": "side_table",
+      "bbox": [
+        925,
+        463,
+        1059,
+        580
+      ],
+      "caption": "small round dark wood side table with a white lamp on top"
+    },
+    {
+      "id": 4,
+      "category": "lamp",
+      "bbox": [
+        970,
+        344,
+        1053,
+        463
+      ],
+      "caption": "white table lamp with a cylindrical shade"
+    }
+  ]
+}

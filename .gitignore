@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.sif
+/outputs/
+/output/
+/wandb/
+/models/
+*.log
+.DS_Store

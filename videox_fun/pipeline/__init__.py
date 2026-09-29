@@ -1,0 +1,1 @@
+from .pipeline_wan2_1_camlayout import WanCamLayoutPipeline

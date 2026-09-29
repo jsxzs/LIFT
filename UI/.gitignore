@@ -1,0 +1,18 @@
+# Python bytecode / caches
+__pycache__/
+*.py[cod]
+
+# Runtime generation artifacts written into clip dirs (reproducible from the editor)
+generated/
+*/generated/
+layout_tracks_ui.json
+*/layout_tracks_ui.json
+camera_da3_edited.npz
+*/camera_da3_edited.npz
+layout_edited.json
+*/layout_edited.json
+viewer_gpu.log
+
+# User-mode per-session tmp dirs (cleaned on exit; ignored in case of a crash)
+.ui_sessions/
+viewer.log

@@ -1,0 +1,35 @@
+# --- torch stack (aarch64 + cu126 wheels live on the pytorch index, see the .def) ---
+torch==2.13.0+cu126
+torchvision==0.28.0+cu126
+triton==3.7.1
+
+# --- diffusion / HF ---
+diffusers==0.32.0
+transformers==4.51.3
+accelerate==1.14.0
+safetensors==0.8.0
+huggingface-hub==0.30.2
+datasets==5.0.0
+sentencepiece==0.2.2
+protobuf==7.35.1
+
+# --- numerics ---
+numpy==2.2.6
+scipy==1.18.0
+einops==0.8.2
+packaging==26.2
+
+# --- video / image IO ---
+opencv-python-headless==5.0.0.93
+pillow==11.3.0
+imageio==2.37.3
+imageio-ffmpeg==0.6.0
+av==18.0.0
+moviepy==2.2.1
+
+# --- misc ---
+omegaconf==2.3.1
+tqdm==4.69.0
+wandb==0.28.1
+func-timeout==4.3.5
+ftfy==6.3.1

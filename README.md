@@ -155,7 +155,11 @@ bash scripts/train_opsd.sh
 The `UI/` directory provides an interactive interface for running and visualizing LIFT.
 
 <p align="center">
-  https://github.com/user-attachments/assets/1a3c98e6-e56a-4d7c-acc4-f30df438abff
+  
+
+https://github.com/user-attachments/assets/80c55b54-b791-4985-98b4-808649ee3c72
+
+
 </p>
 
 ### Installation

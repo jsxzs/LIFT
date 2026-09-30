@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://jsxzs.github.io/LIFT"><img src="https://img.shields.io/badge/Project%20Page-LIFT-blue?logo=googlechrome&logoColor=white" alt="Project Page"></a>
-  <!-- <a href="https://arxiv.org/abs/XXXX.XXXXX"><img src="https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b?logo=arxiv&logoColor=white" alt="arXiv"></a> -->
+  <a href="https://arxiv.org/abs/2609.38146"><img src="https://img.shields.io/badge/arXiv-2609.38146-b31b1b?logo=arxiv&logoColor=white" alt="arXiv"></a>
   <a href="https://huggingface.co/datasets/Overdog/LIFT-Vista"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-ffcc00" alt="Hugging Face Dataset"></a>
   <a href="https://huggingface.co/Overdog/LIFT"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-ffcc00" alt="Hugging Face Model"></a>
 </p>
@@ -259,7 +259,13 @@ This code base builds on [VideoX-Fun](https://github.com/aigc-apps/VideoX-Fun) a
 
 Released under the Apache License 2.0 (see `LICENSE`). The Wan2.1-Fun base model is subject to its own license.
 
-<!-- ## 📚 Citation
+## 📚 Citation
 
 ```bibtex
-``` -->
+@article{ji2026lift,
+  title={LIFT: Layout-In-Future Video Generation under Large Viewpoint Change via On-Policy Self-Distillation},
+  author={Ji, Shengxiang and Wang, Boyang and Xu, Haiyang and Li, Bingnan and Mao, Yucheng and Chen, Zeyuan and Shan, Xiaojun and Zhang, Xiang and Hua, Gang and Xie, Jianwen and Cheng, Zezhou and Tu, Zhuowen},
+  journal={arXiv preprint arXiv:2609.38146},
+  year={2026}
+}
+```
